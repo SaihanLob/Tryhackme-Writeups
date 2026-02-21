@@ -28,7 +28,7 @@ This builds directly on alert triage fundamentals by focusing on what happens *a
 
 
 ## Methodology & Walkthrough
-<img width="1823" height="904" alt="alert-reporting-dashboard" src="https://github.com/user-attachments/assets/e4914be1-7721-46b5-9492-fa1c0148671a" />
+
 <img width="1823" height="904" alt="alert-reporting-dashboard" src="https://github.com/user-attachments/assets/e4914be1-7721-46b5-9492-fa1c0148671a" />
 
 ### Step 1 — Accessing the SOC Dashboard
