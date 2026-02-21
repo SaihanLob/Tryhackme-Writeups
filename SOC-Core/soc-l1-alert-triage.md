@@ -10,7 +10,6 @@
 
 This room introduces the foundational concepts behind SOC alert triage from the perspective of an L1 analyst. It covers how alerts are structured, classified, and prioritised within a SOC environment, with hands-on practice using a simulated SIEM SOC dashboard. The focus is on building a systematic and repeatable approach to alert handling.
 
----
 
 ## Objectives
 
@@ -19,7 +18,6 @@ This room introduces the foundational concepts behind SOC alert triage from the 
 - Perform alert triage using a simulated SOC dashboard
 - Practice documenting findings and closing alerts with appropriate verdicts
 
----
 
 ## Tools Used
 
@@ -28,7 +26,6 @@ This room introduces the foundational concepts behind SOC alert triage from the 
 | TryHackMe SIEM SOC Dashboard | Simulated environment for reviewing, assigning, and triaging alerts |
 | Web Browser | Accessing the dashboard and performing alert management tasks |
 
----
 
 ## Methodology & Walkthrough
 
@@ -50,7 +47,6 @@ Alerts were filtered to display only those with a **New/Unassigned** status, the
 
 Priority alerts were assigned to the analyst, investigated thoroughly, and documented with detailed comments before a verdict was set and the status changed to **Closed**. The documentation step stood out as particularly important. In a real SOC, your comments are the record of your reasoning. If an incident is escalated or revisited, that documentation is what allows the next analyst to pick up where you left off without losing context.
 
----
 
 ## Key Takeaways
 
@@ -62,7 +58,6 @@ Priority alerts were assigned to the analyst, investigated thoroughly, and docum
 
 - **Severity scales drive prioritisation.** The alert severity scale ranging from Low to Critical is the primary tool an L1 analyst uses to decide what to work on first. Internalising this hierarchy early builds good habits that carry into real-world SOC work.
 
----
 
 ## Key Terminology
 
@@ -75,7 +70,6 @@ Priority alerts were assigned to the analyst, investigated thoroughly, and docum
 | Severity Scale | Ranges from Low to Critical. This is used to prioritize analyst attention |
 | Documentation | Detailed comments and verdict rationale recorded during and after an investigation |
 
----
 
 ## 🔗 References
 
