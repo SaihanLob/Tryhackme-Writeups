@@ -39,7 +39,7 @@ The first task involved accessing the SOC dashboard to get an overview of the al
 
 Individual alerts were opened to examine their details, including the verdict fields and the users involved. This step highlights something critical in real SOC work, being that an alert is not just a notification, it's a data point. Understanding who is affected, what triggered the alert, and what the initial verdict suggests are all part of building an accurate picture before taking action.
 
-### Step 3 — Filtering and Prioritization
+### Step 3 — Filtering and Prioritisation
 
 Alerts were filtered to display only those with a **New/Unassigned** status, then sorted by severity and time. This mirrors real triage workflow where analysts work through the highest severity, most recent alerts first. Letting lower-priority alerts sit while critical ones are unaddressed is a common failure point in under-resourced SOC teams.
 
