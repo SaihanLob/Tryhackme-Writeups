@@ -5,7 +5,6 @@
 **Difficulty:** Easy  
 **Category:** SOC Analysis | Alert Management  
 
----
 
 ## Overview
 
