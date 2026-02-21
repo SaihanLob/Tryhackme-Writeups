@@ -71,8 +71,6 @@ Priority alerts were assigned to the analyst, investigated thoroughly, and docum
 | Documentation | Detailed comments and verdict rationale recorded during and after an investigation |
 
 
-## 🔗 References
+## References
 
 - [TryHackMe — SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage)
-- [CISA — SOC Best Practices](https://www.cisa.gov)
-- [MITRE ATT&CK Framework](https://attack.mitre.org)
