@@ -30,6 +30,8 @@ This room builds foundational Splunk skills through hands-on log ingestion and a
 
 ## Methodology & Walkthrough
 
+<img width="1853" height="950" alt="splunk1" src="https://github.com/user-attachments/assets/a9661acc-3497-441d-90a1-3df826613f4e" />
+
 ### Step 1 — Navigating the Splunk Interface
 
 The workflow began by accessing the Splunk home page and familiarising with the interface layout. Splunk's UI is organised around Apps, Search, and Settings. Understanding where each function lives is essential before attempting any investigation. In a real SOC environment, analysts spend significant time in the Search & Reporting app, so navigating it efficiently directly impacts response times.
