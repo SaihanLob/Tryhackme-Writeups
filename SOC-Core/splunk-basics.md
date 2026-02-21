@@ -129,5 +129,3 @@ Quantifying the event volume associated with a specific IP provides immediate co
 ## References
 
 - [TryHackMe — Splunk: The Basics](https://tryhackme.com/room/splunk101)
-
-*Written by [Saihan](https://github.com/SaiLob)*
